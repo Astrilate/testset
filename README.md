@@ -1,1 +1,3 @@
-![tranformer架构](![tranformer架构](D:\Users\asus\Desktop\detr.png)
+$$
+F = G \frac{m_1 \cdot m_2}{r^2}
+$$
